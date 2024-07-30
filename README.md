@@ -1,6 +1,7 @@
 # README
 
 _Last Updated: July 30th 2024 by Stephen Chien (shchien@andrew.cmu.edu)_
+
 _Note: This project builds upon the WeHe iOS client created at Northeastern University._
 
 This file is intended to help get someone unfamilliar with the project up to speed.  To get started, follow the steps in `help/getting_started.md`.
