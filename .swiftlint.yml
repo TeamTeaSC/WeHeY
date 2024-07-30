@@ -1,0 +1,19 @@
+disabled_rules:
+  - function_body_length
+  - line_length
+  - cyclomatic_complexity
+  - identifier_name
+  - type_body_length
+  - fallthrough
+  - file_length
+  - function_parameter_count
+  - trailing_whitespace
+
+excluded:
+  - Pods
+  - wehe/Replay_files
+  - wehe/Utility/LocalizedStrings.swift
+
+force_cast: warning
+
+line_length: 150

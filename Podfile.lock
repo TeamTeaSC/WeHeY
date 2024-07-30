@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (5.0.0)
+  - BlueSocket (1.0.49)
+  - BlueSSLService (1.0.49):
+    - BlueSocket (~> 1.0.49)
+  - DropDown (2.3.13)
+  - IQKeyboardManagerSwift (6.4.2)
+  - LinearProgressBar (1.0.1)
+  - MarqueeLabel (4.0.0)
+  - NotificationBannerSwift (2.5.1):
+    - MarqueeLabel (~> 4.0.0)
+    - SnapKit (~> 5.0.0)
+  - "NSData+FastHex (1.0.1)"
+  - SideMenu (6.4.9)
+  - SnapKit (5.0.1)
+  - Starscream (4.0.4)
+  - SwiftLint (0.39.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - BlueSocket
+  - BlueSSLService
+  - DropDown
+  - IQKeyboardManagerSwift
+  - LinearProgressBar
+  - NotificationBannerSwift
+  - "NSData+FastHex"
+  - SideMenu (~> 6.4.8)
+  - Starscream (~> 4.0.0)
+  - SwiftLint
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BlueSocket
+    - BlueSSLService
+    - DropDown
+    - IQKeyboardManagerSwift
+    - LinearProgressBar
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - "NSData+FastHex"
+    - SideMenu
+    - SnapKit
+    - Starscream
+    - SwiftLint
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  BlueSocket: 973993722fd579a62bb6469cdf7f1ccc8054796c
+  BlueSSLService: 1e2cb405b306ee20d096befe09b78f646152debd
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManagerSwift: 79a3ec200dfb41cb66a89b8575417b5378107c5d
+  LinearProgressBar: f6a74dbabed229dbb1a7978089e2e4317a3a0ee0
+  MarqueeLabel: b55b26e690b6ad41faedd95cbf5eae6f1d1735b4
+  NotificationBannerSwift: e55dd801b0d78f1a7bacb10d722a935ec95f94a3
+  "NSData+FastHex": a22ad031ee10a4297d0bf4d20cf03406a4476169
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: b0f9a08fdb88d211012b6382b48760295117dd5b
+
+COCOAPODS: 1.15.2
